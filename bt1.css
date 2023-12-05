@@ -1,0 +1,113 @@
+.tt{
+    width: 194px;
+height: 72px;
+margin-top: 119px;
+margin-left: 82px;
+text-align: center;
+font-size: 50px;
+
+}
+.yy{width: 392px;height: 319px;margin-top: 68px;margin-left: 24px;border-radius: 10px;}
+
+.hh{
+    width: 392px;
+height: 48px;
+margin-top: 234px;
+margin-left: 24px;
+border-radius: 10px;
+border: 1px solid grey;
+
+}
+.ii1{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.ii2{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.ii3{
+    width: 300px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.iii{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 20px;
+    background-image:url("eye_password.png") ;
+    background-position: 265px;
+    background-repeat: no-repeat;
+}
+.oo{
+    text-decoration: none;
+    color: #2F89FC;
+    margin-left: 90px;
+    
+}
+.ll{
+    border-radius: 10px;
+    width: 300px;
+    height: 50px;
+    margin-top: 20px;
+    background-color:  #0E64D2;
+    border-style: none;
+    
+}
+.ol{
+    border-radius: 10px;
+    width: 300px;
+    height: 50px;
+    margin-top: 20px;
+    background-color: #1877F2;
+    border-style: none;
+    background-image:url("facebook\ logo.png") ;
+    background-position: 10px;
+    background-repeat: no-repeat;
+}
+.olo{
+    border-radius: 10px;
+    width: 300px;
+    height: 50px;
+    margin-top: 20px;
+    background-image:url("google\ logo.png") ;
+    background-position: 10px;
+    background-repeat: no-repeat;
+}
+.gg{
+    margin-left: 62px;
+    word-wrap: break-word;
+}
+.rr{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.oto{
+    margin-top: 17px;
+    margin-left: 10px;
+    text-decoration: none;
+    color:#2F89FC;
+}
+.po{
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+.iu{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-right: 90px;
+}
+
+
+.big{
+    border: 1px solid red;
+    width: 360px;
+    height: 800px;
+}
